@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.192d0968.chunk.css",
-  "main.js": "/static/js/main.61e1a373.chunk.js",
-  "main.js.map": "/static/js/main.61e1a373.chunk.js.map",
-  "static/js/1.2280db13.chunk.js": "/static/js/1.2280db13.chunk.js",
-  "static/js/1.2280db13.chunk.js.map": "/static/js/1.2280db13.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.192d0968.chunk.css.map": "/static/css/main.192d0968.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.eadad81d558b517c81e42e2a530e5c93.js": "/precache-manifest.eadad81d558b517c81e42e2a530e5c93.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/image-search-app-react/static/css/main.192d0968.chunk.css",
+  "main.js": "/image-search-app-react/static/js/main.61e1a373.chunk.js",
+  "main.js.map": "/image-search-app-react/static/js/main.61e1a373.chunk.js.map",
+  "static/js/1.2280db13.chunk.js": "/image-search-app-react/static/js/1.2280db13.chunk.js",
+  "static/js/1.2280db13.chunk.js.map": "/image-search-app-react/static/js/1.2280db13.chunk.js.map",
+  "runtime~main.js": "/image-search-app-react/static/js/runtime~main.f5aa06b0.js",
+  "runtime~main.js.map": "/image-search-app-react/static/js/runtime~main.f5aa06b0.js.map",
+  "static/css/main.192d0968.chunk.css.map": "/image-search-app-react/static/css/main.192d0968.chunk.css.map",
+  "index.html": "/image-search-app-react/index.html",
+  "precache-manifest.5a5a53db87ee1ee10da8779fe0b59d3f.js": "/image-search-app-react/precache-manifest.5a5a53db87ee1ee10da8779fe0b59d3f.js",
+  "service-worker.js": "/image-search-app-react/service-worker.js"
 }
